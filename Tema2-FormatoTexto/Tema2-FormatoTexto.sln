@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2-FormatoTexto", "Tema2-FormatoTexto\Tema2-FormatoTexto.csproj", "{49E26563-1AAD-4B54-9E29-05C684E65E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E26563-1AAD-4B54-9E29-05C684E65E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E26563-1AAD-4B54-9E29-05C684E65E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E26563-1AAD-4B54-9E29-05C684E65E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E26563-1AAD-4B54-9E29-05C684E65E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC22F90-A60C-45F6-936B-3DF5EE176D2C}
+	EndGlobalSection
+EndGlobal
